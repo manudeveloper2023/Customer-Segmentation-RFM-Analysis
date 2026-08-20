@@ -48,12 +48,12 @@ The dataset covers approximately two years of transactions, allowing us to analy
 
 ### Attribute Information
 
-* **InvoiceNo**: Invoice number. Nominal. A 6-digit integral number uniquely assigned to each transaction. If this code starts with the letter `C`, it indicates a cancellation.
+* **Invoice**: Invoice number. Nominal. A 6-digit integral number uniquely assigned to each transaction. If this code starts with the letter `C`, it indicates a cancellation.
 * **StockCode**: Product item code. Nominal. A 5-digit code uniquely assigned to each distinct product.
 * **Description**: Product item name.
 * **Quantity**: Number of units purchased in the transaction. Numeric.
 * **InvoiceDate**: Date and time when the transaction was generated.
-* **UnitPrice**: Price per unit in British pounds (£). Numeric.
+* **Price**: Price per unit in British pounds (£). Numeric.
 * **CustomerID**: Customer identification number. Nominal.
 * **Country**: Country where the customer resides.
 
