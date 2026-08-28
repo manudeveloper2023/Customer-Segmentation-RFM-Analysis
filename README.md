@@ -305,3 +305,9 @@ Future iterations of the analysis could incorporate:
 * Alternative clustering algorithms such as Hierarchical Clustering or DBSCAN.
 * Automated customer segment assignment for new customers.
 * Integration with marketing and CRM systems.
+
+
+## 📂 Project Versions
+
+- 🇬🇧 [English Version](/notebooks/en/01_data_understanding_cleaning.ipynb)
+- 🇪🇸 [Versión en Español](/notebooks/es/01_data_understanding_cleaning.ipynb)
