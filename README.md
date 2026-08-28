@@ -133,14 +133,6 @@ A scenario analysis was performed to estimate the potential revenue recovery ass
 
 The baseline scenario assumes a **10% reactivation rate**:
 
-$$
-\text{Potential Revenue Recovery}
-=
-\text{Sleeping Giants Revenue}
-\times
-\text{Reactivation Rate}
-$$
-
 Under this scenario:
 
 > **10% Reactivation → ~$292K Potential Revenue Recovery**
