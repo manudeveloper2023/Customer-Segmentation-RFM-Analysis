@@ -389,25 +389,7 @@ Recommended actions include:
 * Product recommendations.
 * Frequency-based promotions.
 
----
-
-## 11. Financial Impact
-
-A scenario analysis was developed to estimate the potential revenue recovery associated with different Sleeping Giants reactivation rates.
-
-The baseline scenario assumes a **10% reactivation rate**.
-
-### Formula
-
-```
-Potential Revenue Recovery
-=
-Sleeping Giants Revenue
-×
-Reactivation Rate
-```
-
-Under the baseline scenario:
+Under this scenario:
 
 > **10% Reactivation → ~$292K Potential Revenue Recovery**
 
